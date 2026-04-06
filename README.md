@@ -1,7 +1,1 @@
-![HTML5](https://img.shields.io/badge/-_-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-_-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-_-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/-_-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-_-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![WebGL](https://img.shields.io/badge/-_-990000?style=flat-square&logo=webgl&logoColor=white)
-![GSAP](https://img.shields.io/badge/-_-88CE02?style=flat-square&logo=greensock&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,threejs,react,webgl,gsap)](https://skillicons.dev)
